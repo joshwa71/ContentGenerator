@@ -4,7 +4,7 @@ import config
 
 
 api_host = 'https://api.stability.ai'
-api_key = -
+api_key = '-'
 
 
 def getModelList():
